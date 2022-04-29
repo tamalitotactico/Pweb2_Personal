@@ -8,7 +8,7 @@ public class Calculadora {
         System.out.println("Ingrese el segundo número a operar");
         int num2 = sc.nextInt();
         System.out.println("Ingrese la operación a realizar");
-        String operation = sc.nextLine();
+        String operation = sc.next();
     }
 
     public static void operate(int num1, int num2, String operation) {
@@ -23,27 +23,27 @@ public class Calculadora {
         } else if (operation.equals("mod")) {
             mod(num1, num2);
         } else {
-
+            System.out.println("¡Parece que hubo un problema!");
         }
     }
 
     public static void add(int num1, int num2) {
-
+        System.out.println("Resultado: " + (num1 + num2));
     }
 
     public static void sub(int num1, int num2) {
-
+        System.out.println("Resultado: " + (num1 - num2));
     }
 
     public static void mul(int num1, int num2) {
-
+        System.out.println("Resultado: " + (num1 * num2));
     }
 
     public static void div(int num1, int num2) {
-
+        System.out.println("Resultado: " + (num1 / num2));
     }
 
     public static void mod(int num1, int num2) {
-
+        System.out.println("Resultado: " + (num1 % num2));
     }
 }
