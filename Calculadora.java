@@ -13,37 +13,37 @@ public class Calculadora {
 
     public static void operate(int num1, int num2, String operation) {
         if (operation.equals("add")) {
-
+            add(num1, num2);
         } else if (operation.equals("sub")) {
-
+            sub(num1, num2);
         } else if (operation.equals("mul")) {
-
+            mul(num1, num2);
         } else if (operation.equals("div")) {
-
+            div(num1, num2);
         } else if (operation.equals("mod")) {
-
+            mod(num1, num2);
         } else {
 
         }
     }
 
-    public static void add() {
+    public static void add(int num1, int num2) {
 
     }
 
-    public static void sub() {
+    public static void sub(int num1, int num2) {
 
     }
 
-    public static void mul() {
+    public static void mul(int num1, int num2) {
 
     }
 
-    public static void div() {
+    public static void div(int num1, int num2) {
 
     }
 
-    public static void mod() {
+    public static void mod(int num1, int num2) {
 
     }
 }
