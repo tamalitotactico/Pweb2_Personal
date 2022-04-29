@@ -11,8 +11,18 @@ public class Calculadora {
         String operation = sc.nextLine();
     }
 
-    public static void operate(int num1, int num2, String operation){
-        if(){
+    public static void operate(int num1, int num2, String operation) {
+        if (operation.equals("add")) {
+
+        } else if (operation.equals("sub")) {
+
+        } else if (operation.equals("mul")) {
+
+        } else if (operation.equals("div")) {
+
+        } else if (operation.equals("mod")) {
+
+        } else {
 
         }
     }
