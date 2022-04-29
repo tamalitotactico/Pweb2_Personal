@@ -9,6 +9,7 @@ public class Calculadora {
         int num2 = sc.nextInt();
         System.out.println("Ingrese la operación a realizar");
         String operation = sc.next();
+        operate(num1, num2, operation);
     }
 
     public static void operate(int num1, int num2, String operation) {
