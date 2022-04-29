@@ -11,6 +11,12 @@ public class Calculadora {
         String operation = sc.nextLine();
     }
 
+    public static void operate(int num1, int num2, String operation){
+        if(){
+
+        }
+    }
+
     public static void add() {
 
     }
