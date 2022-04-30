@@ -58,7 +58,7 @@
 </theader>
 <tbody>
 <tr><td colspan="6">I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS<br>
-<img src="https://github.com/tamalitotactico/Pweb2_Personal/blob/master/commits/commits%201.png" alt="EPIS" style="width:50%; height:auto"/></td>
+<img src="https://github.com/tamalitotactico/Pweb2_Personal/blob/master/commits/commits%201.png" alt="EPIS" style="width:50%; height:auto"/>
 <img src="https://github.com/tamalitotactico/Pweb2_Personal/blob/master/commits/commits%202.png" alt="EPIS" style="width:50%; height:auto"/></td>
 </td></tr>
 <tr><td colspan="6">II. SOLUCIÓN DEL CUESTIONARIO<br>
