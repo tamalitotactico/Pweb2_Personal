@@ -20,7 +20,7 @@
 
 <div align="center">
 <span style="font-weight:bold;">GUÍA DE LABORATORIO</span><br />
-<span>(formato docente)</span>
+<span>(formato estudiante)</span>
 </div>
 
 
@@ -35,15 +35,14 @@
 <td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
 </tr>
 <tr>
-<td>FECHA INICIO::</td><td>25-Abr-2022</td><td>FECHA FIN:</td><td>29-Abr-2022</td><td>DURACIÓN:</td><td>04 horas</td>
+<td>FECHA DE PRESENTACIÓN</td><td>29-Abr-2022</td><td>HORA DE PRESENTACIÓN:</d><td>9:20PM</td>
 </tr>
-<tr><td colspan="6">RECURSOS A UTILIZAR:
+<tr><td colspan="6">INTEGRANTE (s):
 <ul>
-<li><a href="https://guides.github.com/">https://guides.github.com/</a></li>
-<li><a href="https://git-scm.com/book/es/v2">https://git-scm.com/book/es/v2</a></li>
+<td>Nota</td>
 </ul>
 </td>
-</<tr>
+<tr>
 <tr><td colspan="6">DOCENTES:
 <ul>
 <li>Richart Smith Escobedo Quispe (rescobedoq@unsa.edu.pe)</li>
