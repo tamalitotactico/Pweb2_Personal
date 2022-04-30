@@ -57,9 +57,9 @@
 <tr><th colspan="6">INFORMACIÓN BÁSICA</th></tr>
 </theader>
 <tbody>
-<tr>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS<br>
+<tr><td colspan="6">I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS<br>
 
-</tr>
+</td></tr>
 <tr><td colspan="6">II. SOLUCIÓN DEL CUESTIONARIO<br>
 
 </td></tr>
