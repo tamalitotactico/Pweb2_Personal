@@ -59,9 +59,13 @@
 <tbody>
 <tr><td colspan="6">I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS<br>
 <img src="https://github.com/tamalitotactico/Pweb2_Personal/blob/master/commits/commits%201.png" alt="EPIS" style="width:50%; height:auto"/></td>
+<img src="https://github.com/tamalitotactico/Pweb2_Personal/blob/master/commits/commits%202.png" alt="EPIS" style="width:50%; height:auto"/></td>
 </td></tr>
 <tr><td colspan="6">II. SOLUCIÓN DEL CUESTIONARIO<br>
-
+<ul>
+<li>¿Por qué Git es una herramienta importante en el curso de Programación Web 2?</li>
+<li>Porque nos permite trabajar de manera remota y organizada, pudiendo hacer tanto recuperaciones de versiones anteriores de archivos de un proyecto en caso de problemas, como trabajo en equipo con la utilización de ramas, además este modelo de trabajo es el más cercano al modelo de trabajo actual de un ingeniero de sistemas. Git permite a través de los commits poder hacer un seguimiento del paso a paso de la resolución de un trabajo, y junto con su extensión GitHub, se pueden hacer revisiones de otros proyectos.</li>
+</ul>
 </td></tr>
 <tr><td colspan="6">III. CONCLUSIONES<br>
 
