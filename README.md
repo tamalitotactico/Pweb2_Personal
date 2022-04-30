@@ -35,7 +35,7 @@
 <td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
 </tr>
 <tr>
-<td>FECHA DE PRESENTACIÓN</td><td>29-Abr-2022</td><td>HORA DE PRESENTACIÓN:</d><td>9:20PM</td>
+<td>FECHA DE PRESENTACIÓN</td><td>29-Abr-2022</td><td>HORA DE PRESENTACIÓN:</d><td>9:35PM</td>
 </tr>
 <tr><td colspan="5">INTEGRANTE (s): César Alejandro Garay Bedregal
 <ul>
@@ -60,6 +60,9 @@
 <tr><td colspan="6">I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS<br>
 <img src="https://github.com/tamalitotactico/Pweb2_Personal/blob/master/commits/commits%201.png" alt="EPIS" style="width:50%; height:auto"/>
 <img src="https://github.com/tamalitotactico/Pweb2_Personal/blob/master/commits/commits%202.png" alt="EPIS" style="width:50%; height:auto"/>
+<img src="https://github.com/tamalitotactico/Pweb2_Personal/blob/master/commits/commits%203.png" alt="EPIS" style="width:50%; height:auto"/>
+<img src="https://github.com/tamalitotactico/Pweb2_Personal/blob/master/commits/commits%204.png" alt="EPIS" style="width:50%; height:auto"/>
+<img src="https://github.com/tamalitotactico/Pweb2_Personal/blob/master/commits/commits%205.png" alt="EPIS" style="width:50%; height:auto"/>
 </td></tr>
 <tr><td colspan="6">II. SOLUCIÓN DEL CUESTIONARIO<br>
 <ul>
