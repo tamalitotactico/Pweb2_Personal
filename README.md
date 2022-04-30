@@ -54,7 +54,7 @@
 
 <table>
 <theader>
-<tr><th colspan="6">INFORMACIÓN BÁSICA</th></tr>
+<tr><th colspan="6">SOLUCIÓN Y RESULTADOS</th></tr>
 </theader>
 <tbody>
 <tr><td colspan="6">I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS<br>
