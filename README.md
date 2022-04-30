@@ -66,4 +66,5 @@
 <tr><td colspan="6">III. CONCLUSIONES<br>
 
 </td></tr>
+</tdbody>
 </table>
