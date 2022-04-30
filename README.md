@@ -37,7 +37,7 @@
 <tr>
 <td>FECHA DE PRESENTACIÓN</td><td>29-Abr-2022</td><td>HORA DE PRESENTACIÓN:</d><td>9:20PM</td>
 </tr>
-<tr><td colspan="6">INTEGRANTE (s):
+<tr><td colspan="5">INTEGRANTE (s): César Alejandro Garay Bedregal
 <ul>
 <td>Nota</td>
 </ul>
