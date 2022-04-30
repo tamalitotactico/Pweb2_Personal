@@ -51,3 +51,19 @@
 <tr>
 </tdbody>
 </table>
+
+<table>
+<theader>
+<tr><th colspan="6">INFORMACIÓN BÁSICA</th></tr>
+</theader>
+<tbody>
+<tr><td colspan="6">I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS<br>
+
+</td></tr>
+<tr><td colspan="6">II. SOLUCIÓN DEL CUESTIONARIO<br>
+
+</td></tr>
+<tr><td colspan="6">III. CONCLUSIONES<br>
+
+</td></tr>
+</table>
